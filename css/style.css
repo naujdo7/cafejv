@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    background-color: #982417;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+
+.header_logo{
+    width: 150px;
+    position: relative;
+    right: 720px;
+    top: 200;
+}
+
+.header_titulo{
+    color: white;
+    ;
+
+}
